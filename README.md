@@ -24,4 +24,7 @@ You can enroll to the full course here:
 - On [dmitrysoshnikov.education](http://www.dmitrysoshnikov.education/p/essentials-of-parsing) school
 - On [Udemy](https://www.udemy.com/course/essentials-of-parsing/?referralCode=D9DAAEB91A879B61D94F)
 
-More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).
+More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801074445">https://packt.link/free-ebook/9781801074445 </a> </p>
